@@ -1,0 +1,6 @@
+{
+  "message.chunkulator.nopermission": "§cYou need a higher permission level in order to do this.",
+  "message.chunkulator.complete": "Chunkulation Complete! Here are the results:",
+  "message.chunkulator.blockentry": "%1$s: %2$s",
+  "message.chunkulator.blocktotal": "Total: %1$s"
+}
